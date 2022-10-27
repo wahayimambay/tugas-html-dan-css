@@ -1,0 +1,20 @@
+/*Form */ 
+.formgroup { 
+  clear: both; 
+} 
+   
+/* mengatur posisi label */ 
+.formgroup label { 
+  display: block; 
+  padding: 15px 0; 
+  float: left; 
+  width: 30%; 
+  font-weight: bold; 
+} 
+
+/* mengatur posisi input*/ 
+.formgroup input { 
+  display: block; 
+  width: 50%; 
+  float: left; 
+} 
